@@ -5,7 +5,7 @@ main:
   - title: "Categories"
     url: /categories/
   - title: "Algorithm"
-    url: /Algorithm/  
+    url: /categories/Algorithm/  
   - title: "About"
     url: /about/
    
