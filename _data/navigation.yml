@@ -2,8 +2,13 @@
 main:
   - title: "Home"
     url: https://Nicholas-Kim.github.io
+  - title: "Categories"
+    url: /categories/
+  - title: "Algorithm"
+    url: /Algorithm/  
   - title: "About"
     url: /about/
+   
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
