@@ -6,4 +6,4 @@ author_profile: true
 taxonomy: Algorithm
 ---
 
-알고리즘 문제풀이 및 
+Studying Algorithm Step by Step
