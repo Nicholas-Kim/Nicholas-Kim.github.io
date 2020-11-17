@@ -11,7 +11,7 @@ tags:
 ---
 
 <p align="center">
-<img src="https://cdn.pixabay.com/photo/2016/02/18/14/42/syndicate-1207270_960_720.jpg" width="400" height="150">
+<img src="https://cdn.pixabay.com/photo/2016/02/18/14/42/syndicate-1207270_960_720.jpg" width="800" height="300">
 </p>
 
 ## enumerate()
