@@ -93,9 +93,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "열정코딩 블로그"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "열정하나로만 먹고사는 사람"
+  name             : "Hyun devlog"
+  avatar           : "/assets/bio-photo.jpeg"
+  bio              : "Do the right Thing"
   location         : "South Korea"
   email            :
   links:
