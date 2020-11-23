@@ -294,7 +294,9 @@ defaults:
       comments: true
       share: true
       related: false
-      
+     
+algolia:
+    vars: ["title", "excerpt", "date", "url", "categories", "tags"]
       
       
      
