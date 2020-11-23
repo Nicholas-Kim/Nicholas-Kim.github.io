@@ -53,7 +53,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 search                   : true # true, false (default)
 search_full_content      : true # true, false (default)
-search_provider          : google # lunr (default), algolia, google
+search_provider          : lunr # lunr (default), algolia, google
 algolia:
   application_id         : #6ID16BWM23 # YOUR_APPLICATION_ID
   index_name             : #Nicholas_gitblog # YOUR_INDEX_NAME
@@ -62,7 +62,7 @@ algolia:
   powered_by             : #true # true (default), false
 google:
   search_engine_id       : 96603a5630fc4528c # YOUR_SEARCH_ENGINE_ID
-  instant_search         : true # false (default), true
+  instant_search         : false # false (default), true
 # SEO Related
 google_site_verification :
 bing_site_verification   :
