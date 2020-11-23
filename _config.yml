@@ -59,7 +59,9 @@ algolia:
   index_name             : my_blog # YOUR_INDEX_NAME
   apiKey                 : 9366c794b2176b1267188811c4a3f2fc 
   search_only_api_key    : 6bc820c5f3914aeaa745b9a00a612212  # YOUR_SEARCH_ONLY_API_KEY
-  powered_by             : # true # true (default), false
+  powered_by             : true # true (default), false
+  files_to_exclude       : 
+  - _posts/2020-11-24-[Algorithm] DFS(깊이우선탐색).md
 google:
   search_engine_id       : 96603a5630fc4528c # YOUR_SEARCH_ENGINE_ID
   instant_search         : false # false (default), true
