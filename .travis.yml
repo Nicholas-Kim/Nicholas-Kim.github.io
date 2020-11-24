@@ -4,13 +4,16 @@ cache: bundler
 install:
   # Install Jekyll and dependencies
   - bundle install
-
+  
+before_install:
+  - gem install bundler
+  
 script:
-  - bundle exec rake site:deploy --quiet
+  - bundle exec jekyll algolia
 branches:
   only:
     # Change this to gh-pages if you're deploying using the gh-pages branch
-    - master
+    - main
 rvm:
  - 2.4.2
 
@@ -25,4 +28,4 @@ deploy:
   github_token: $43f72bb916812d7ada41490826bdf4fc06cbbb1f # Set in the settings page of your repository, as a secure variable
   keep_history: true
   on:
-    branch: master
+    branch: main
